@@ -104,7 +104,7 @@ methodtools==0.4.7
 more-itertools==10.5.0
 multidict==6.1.0
 nest-asyncio==1.6.0
-numpy==2.2.1
+numpy==1.26.4
 opentelemetry-api==1.27.0
 opentelemetry-exporter-otlp==1.27.0
 opentelemetry-exporter-otlp-proto-common==1.27.0
@@ -116,7 +116,7 @@ opentelemetry-semantic-conventions==0.48b0
 oracledb==2.5.1
 ordered-set==4.1.0
 packaging==24.2
-pandas==2.2.3
+pandas==2.0.3
 parso==0.8.4
 pathspec==0.12.1
 pendulum==3.0.0
@@ -153,7 +153,7 @@ rfc3339-validator==0.1.4
 rich==13.9.4
 rich-argparse==1.6.0
 rpds-py==0.22.3
--e git+https://github.com/cmotadev/oracle-pipelines.git@2392abde3f0bf2272bb4aeefd508c2f131363ee1#egg=sde_extractor
+-e git+https://github.com/cmotadev/oracle-pipelines.git@fa34725fb377fdd4ef0078dfa9021b1f04d67029#egg=sde_extractor
 setproctitle==1.3.4
 setuptools==75.8.0
 shapely==2.0.6
